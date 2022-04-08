@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "rohan gaikwad",
+      "age": "21",
+      "date_of_birth": "2000-10-27",
+      "state_of_residence": "Maharashtra",
+      "address": "Koparkhairane",
+      "pin_code": "400709",
+      "id": 1
+    },
+    {
+      "name": "navneet",
+      "age": "21",
+      "date_of_birth": "2022-04-12",
+      "state_of_residence": "Patna",
+      "address": "choti pahadi",
+      "pin_code": "800007",
+      "id": 2
+    },
+    {
+      "name": "Kushagra Kamal",
+      "age": "18",
+      "date_of_birth": "2022-04-04",
+      "state_of_residence": "Patna",
+      "address": "Pata nhi",
+      "pin_code": "800009",
+      "id": 3
+    }
+  ]
+}
